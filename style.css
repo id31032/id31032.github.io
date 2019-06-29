@@ -88,9 +88,13 @@ body{
 }
 
 @media screen and (max-width: 1160px){
-	.ssilka{
-		font-size: 500%;
-	}
+	body{
+	margin: 0;
+	width: 70%;
+	height: 70%;
+	background: url(images/1.jpg) no-repeat;
+	background-size: cover;
+}
 }
 
 
