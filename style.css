@@ -86,5 +86,26 @@ body{
 	background-size: cover;
 }
 
+@media{
+	#zagolovok
+{	
 
+
+transform: none;
+	color: #9CFCFB;
+	padding: 5px;
+	margin-left: 20%;
+	
+	opacity: 0.85;
+	width: 60%;
+	
+	border: 5px solid #9CFCFB;
+	border-radius: 50px;
+	font-family: Arial, serif;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 3px -4px 4px black;
+	font-size: 100%
+}
+}
 
