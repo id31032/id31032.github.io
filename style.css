@@ -86,7 +86,8 @@ body{
 	background-size: cover;
 }
 
-@media{
+@media (max-width: 1160px)
+{
 	#zagolovok
 {	
 
