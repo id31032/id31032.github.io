@@ -86,20 +86,16 @@ body{
 	background-size: cover;
 }
 
-@media (max-width: 1160px)
+@media (max-width: 160px)
 {
-	#zagolovok
+#zagolovok
 {	
-
-
 transform: none;
 	color: #9CFCFB;
 	padding: 5px;
 	margin-left: 20%;
-	
 	opacity: 0.85;
 	width: 60%;
-	
 	border: 5px solid #9CFCFB;
 	border-radius: 50px;
 	font-family: Arial, serif;
