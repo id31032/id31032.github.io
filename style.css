@@ -86,9 +86,12 @@ body{
 	background: url(images/1.jpg) no-repeat;
 	background-size: cover;
 }
-@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
-@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
-@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
+
+@media screen and (max-width: 1160px){
+	.ssilka{
+		font-size: 500%;
+	}
+}
 
 
 
