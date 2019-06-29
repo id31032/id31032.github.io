@@ -87,15 +87,7 @@ body{
 	background-size: cover;
 }
 
-@media screen and (max-width: 1160px){
-	body{
-	margin: 0;
-	width: 70%;
-	height: 70%;
-	background: url(images/1.jpg) no-repeat;
-	background-size: cover;
-}
-}
+
 
 
 
