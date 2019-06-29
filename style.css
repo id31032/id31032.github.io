@@ -85,7 +85,7 @@ body{
 	background: url(images/1.jpg) no-repeat;
 	background-size: cover;
 }
-@media
+@media (max-width: 1160px)
 {
 .ssilka{
 	font-size: 201%; 
