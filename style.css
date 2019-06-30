@@ -250,12 +250,12 @@ transform: none;
 .rass{
 	font-size: 100%;
 	position: absolute;
-	left: 470;
+	left: 480;
 	top: 115;
 	border: 2px solid #551A8B;
 	padding: 5px;
 	border-radius: 90px;
-	width: 110%;
+	width: 90%;
 }
 .one
 {
@@ -279,13 +279,13 @@ top: 150;
 }
 #opisanie
 {
-	font-size: 150%;
+	font-size: 170%;
 	position: absolute;
-	width: 80%;
+	width: 90%;
 	left: 40;
 	right: 10;
 	top: 200;
-	font-family: Arial, serif;
+	font-family: Times New Roman, serif;
 	
 }
 }
