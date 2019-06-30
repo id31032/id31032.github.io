@@ -162,9 +162,9 @@ transform: none;
 	width: 105%;
 	font-family: Arial, serif;
 	font-style: italic;
-	text-align: center;
+	text-align: left;
 	text-shadow: 6px 5px 9px #29242B;
-	font-size: 320%
+	font-size: 330%
 }
 #menu{
 	
@@ -173,11 +173,12 @@ transform: none;
 	width: 100%;
 	position: absolute;
 	left: 100;
-	top: 700;
+	top: 650;
 	color: #252229;
 	font-size: 300%
 	
 }
+.ssilka
 {
 	
 	font-size: 210%;	
@@ -197,7 +198,7 @@ transform: none;
 	
 	position: absolute;
 	left: 70;
-	top: 220;
+	top: 700;
 }
 .zakaz
 {
