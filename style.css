@@ -157,14 +157,14 @@ transform: none;
 	color: #FFFFFF;
 	padding: 5px;
 	margin-left: 2%;
-	margin-top: 10%;
+	margin-top: 3%;
 	opacity: 0.85;
 	width: 105%;
 	font-family: Arial, serif;
 	font-style: italic;
-	text-align: left;
+	text-align: center;
 	text-shadow: 6px 5px 9px #29242B;
-	font-size: 300%
+	font-size: 320%
 }
 #menu{
 	
@@ -173,7 +173,7 @@ transform: none;
 	width: 100%;
 	position: absolute;
 	left: 100;
-	top: 400;
+	top: 700;
 	color: #252229;
 	font-size: 300%
 	
@@ -188,7 +188,7 @@ transform: none;
 .listok{
 	position: absolute;
 	left:30px;  
-	top:450px;
+	top:750px;
 	width: 400;
 	height: 300;
 }
