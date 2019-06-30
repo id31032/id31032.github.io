@@ -182,4 +182,57 @@ transform: none;
 	width: 400;
 	height: 250;
 }
+
+
+.ssilka
+{
+	
+	font-size: 210%;	
+	font-family: Times, serif;
+	text-shadow: 1px 1px 15px #FBF6F3;
+	color: 000000;
+}
+.afisha
+{
+	
+	position: absolute;
+	left: 70;
+	top: 230;
+}
+.zakaz
+{
+	position: absolute;
+	left: 70;
+	top: 270;
+	
+}
+.prise
+{
+	position: absolute;
+	left: 70;
+	top: 307;
+	
+}
+.akcii
+{
+	position: absolute;
+	left: 70;
+	top: 343;
+	
+}
+.pl
+{
+	position: absolute;
+	left: 70;
+	top: 380;
+	
+}
+.kont
+{
+	position: absolute;
+	left: 70;
+	top: 417;
+	
+	
+}
 }
