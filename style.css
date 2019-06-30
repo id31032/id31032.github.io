@@ -209,52 +209,83 @@ transform: none;
 {
 	
 	position: absolute;
-	left: 70;
+	left: 50;
 	top: 640;
 }
 .zakaz
 {
 	position: absolute;
-	left: 70;
+	left: 50;
 	top: 700;
 	
 }
 .prise
 {
 	position: absolute;
-	left: 70;
+	left: 50;
 	top: 760;
 	
 }
 .akcii
 {
 	position: absolute;
-	left: 70;
+	left: 50;
 	top:825;
 	
 }
 .pl
 {
 	position: absolute;
-	left: 70;
+	left: 50;
 	top: 885;
 	
 }
 .kont
 {
 	position: absolute;
-	left: 70;
+	left: 50;
 	top: 945;
 	
 }
 .rass{
 	font-size: 100%;
-	position5: absolute;
+	position: absolute;
 	left: 470;
 	top: 115;
 	border: 2px solid #551A8B;
 	padding: 5px;
 	border-radius: 90px;
 	width: 110%;
+}
+.one
+{
+ position: absolute;
+
+left: 500;
+	
+top: 150;
+}
+.oone
+{
+ position: absolute;
+	left: 590;
+	top: 150;
+}
+.ooone
+{
+ position: absolute;
+	left: 700;
+	top: 150;
+}
+#opisanie
+{
+	font-size: 150%;
+	position: absolute;
+	width: 80%;
+	left: 40;
+	right: 10;
+	top: 200;
+	font-family: Arial, serif;
+	
 }
 }
