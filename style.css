@@ -134,7 +134,8 @@ background-repeat: no-repeat;
 	background-size:110% 120%;
 
 }
-@media screen and (max-width: 1160px )
+
+@media screen and (max-width: 1360px)
 {
 body{  
 	margin: 0;
@@ -143,21 +144,3 @@ body{
 	background: url(images/23.jpg);
 	background-size: 120% 120%;
 }
-#zagolovok
-{	
-transform: none;
-	color: #FFFFFF;
-	padding: 5px;
-	margin-left: 2%;
-	margin-top: 1%;
-	opacity: 0.85;
-	width: 100%;
-	
-	font-family: Impact, serif;
-	font-style: italic;
-	text-align: left;
-	text-shadow: 6px 5px 9px #29242B;
-	font-size: 320%
-}
-}
-
