@@ -181,7 +181,7 @@ transform: none;
 .ssilka
 {
 	
-	font-size: 210%;	
+	font-size: 200%;	
 	font-family: Times, serif;
 	text-shadow: 1px 1px 15px #FBF6F3;
 	color: 000000;
@@ -191,7 +191,7 @@ transform: none;
 	left:30px;  
 	top:610px;
 	width: 400;
-	height: 300;
+	height: 400;
 }
 .afisha
 {
@@ -204,41 +204,41 @@ transform: none;
 {
 	position: absolute;
 	left: 70;
-	top: 660;
+	top: 665;
 	
 }
 .prise
 {
 	position: absolute;
 	left: 70;
-	top: 700;
+	top: 705;
 	
 }
 .akcii
 {
 	position: absolute;
 	left: 70;
-	top:740;
+	top:750;
 	
 }
 .pl
 {
 	position: absolute;
 	left: 70;
-	top: 780;
+	top: 790;
 	
 }
 .kont
 {
 	position: absolute;
 	left: 70;
-	top: 820;
+	top: 830;
 	
 }
 .rass{
-	font-size: 180%;
-	position: absolute;
-	left: 500;
+	font-size: 100%;
+	position5: absolute;
+	left: 400;
 	top: 120;
 	border: 2px solid #551A8B;
 	padding: 5px;
