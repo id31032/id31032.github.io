@@ -39,6 +39,17 @@ transform: none;
 	
 	
 }
+#opisanie
+{
+	font-size: 150%;
+	position: absolute;
+	width: 65%;
+	left: 40;
+	right: 10;
+	top: 485;
+	font-family: Arial, serif;
+	
+}
 .ssilka
 {
 	
@@ -178,6 +189,7 @@ transform: none;
 	font-size: 300%
 	
 }
+
 .ssilka
 {
 	
