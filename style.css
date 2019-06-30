@@ -175,3 +175,11 @@ transform: none;
 	text-shadow: 1px 1px 15px #FBF6F3;
 	color: 000000;
 }
+.listok{
+	position: absolute;
+	left:30px;  
+	top:210px;
+	width: 400;
+	height: 250;
+}
+}
