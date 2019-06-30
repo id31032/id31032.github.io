@@ -173,7 +173,7 @@ transform: none;
 	width: 100%;
 	position: absolute;
 	left: 80;
-	top: 550;
+	top: 530;
 	color: #252229;
 	font-size: 300%
 	
@@ -198,47 +198,47 @@ transform: none;
 	
 	position: absolute;
 	left: 70;
-	top: 620;
+	top: 640;
 }
 .zakaz
 {
 	position: absolute;
 	left: 70;
-	top: 665;
+	top: 685;
 	
 }
 .prise
 {
 	position: absolute;
 	left: 70;
-	top: 705;
+	top: 725;
 	
 }
 .akcii
 {
 	position: absolute;
 	left: 70;
-	top:750;
+	top:770;
 	
 }
 .pl
 {
 	position: absolute;
 	left: 70;
-	top: 790;
+	top: 810;
 	
 }
 .kont
 {
 	position: absolute;
 	left: 70;
-	top: 830;
+	top: 850;
 	
 }
 .rass{
 	font-size: 100%;
 	position5: absolute;
-	left: 400;
+	left: 450;
 	top: 120;
 	border: 2px solid #551A8B;
 	padding: 5px;
